@@ -49,6 +49,35 @@ When a tool grows exponetialy to sucks out all your time and resources and wants
 - C++
 - Rust
 
+# Data in Motion
+
+Data is the pulsing heart of your application. It comes in many forms and moves through Pipelines.
+
+- Fast RAM based stores are an essential front line in the performance your users crave!
+- Graph DBs give your users the insight they need.
+- Stream processing can feed some of the Pipelines
+- Time-Series
+- Data Lakes
+- AI Processing Everywhere
+
+# Cloud Native Integrated with On-Prem and Local
+
+- If you can't run your Stack local, you don't understand it!
+
+# Digital Twins
+
+- The key technology to turn data into wisdom. Stacks without Digital Twins are a self imposed lobotomy!
+
+# UX that is actually modern
+
+- by far the largest number of neurons in the human brain are devoted to visual processing
+- but in some sort of mass developer delusion we have become used to low bandwidth presentation of the data insight all apps are created to do
+- So, GPU-first approach
+- Unreal Engine
+- supplemented with OS Native tech
+- looking for your ancient low bandwitdh JavaScript framework? Not in a Modern Stack!
+- Of course some people will pretend that their new computer with powerful GPU can only peer dimly at data inside a web browser and you probably want to search out one of the million Retro Stacks that do that, but when and if this pathway is needed we suggest WASM and will provide that as the third alternative.
+
 
 
 
