@@ -1,5 +1,8 @@
 # TheNewSuperStack
-The New Thing is Native - Cloud Native - GPU Native - AI Native - Data Native - OS Native - Mobile Native - MetaVerse Native -to delight Users First and if DX is the Hard Way, that's Reality
+
+A highly opinionated MetaVerse friendly Modern Stack that is like a warm summer breeze of fresh air and above all, fun to work with into the next decade. Designed to deliver stunning apps that delight users, grab their attention and deliver real insight and usefulness that keeps your users coming back for more. Highly opinionated means careful selection of tech components to achieve these goals effiently and NOT a kitchen sink of popular frameworks to please everyone. If you like the ideas here, stick around and if this proves hard to understand in a comfortable way, the vast sea of GitHub is a welcoming resource to all!
+
+
 
 # It Has To Breathe, Vibrant With Pulsing Life, Dynamic
 
