@@ -48,7 +48,7 @@ When a tool grows exponetialy to sucks out all your time and resources and wants
   - https://github.com/VerseMetaVerse/VerseInfo
   - https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference
 - Python
-  - Avoid using Python due to 10X slower than the others in 2024! But you can't avoid it because it is the primary language of AI research. Try to keep it out of any critical performance paths.
+  - Avoid using Python due to 10X slower than the others in 2024! But you can't avoid it because it is the primary language of AI research. Try to keep it out of any critical performance paths. If every AI researcher switched from Python to F# vast server farms could be eliminated and Global Warming prevented!
   - https://www.python.org/downloads/
   - https://github.com/vinta/awesome-python
 - C#
@@ -85,12 +85,13 @@ When a tool grows exponetialy to sucks out all your time and resources and wants
   - https://github.com/rigtorp/awesome-modern-cpp
 - Rust
   - Rust compiles to efficient code without the complexity of C++
-  - It has hit the mainstream with usage in BOTH the Linux Kernel and the Windows Kernel!
+  - It has hit the mainstream with some initial usage in BOTH the Linux Kernel and the Windows Kernel!
   - https://www.rust-lang.org
   - https://github.com/rust-lang/rust
   - https://github.com/rust-unofficial/awesome-rust
 - Go
-  - Go is Googles language for Kubernetes and has achieved almost universal adoption for Cloud Native. 
+  - Go is Googles language for Kubernetes and has achieved almost universal adoption for Cloud Native.
+  - Downloads easily to both Linux and Wndows and runs at similar speeds to C# and Java.
   - https://go.dev
   - https://github.com/golang/go
   - https://github.com/avelino/awesome-go
