@@ -44,43 +44,53 @@ When a tool grows exponetialy to sucks out all your time and resources and wants
 ### The List
 
 - Verse
+  - A new Functional and Object Language by the creators of Haskell targeted to handle the vast scale of The Metaverse
   - https://github.com/VerseMetaVerse/VerseInfo
   - https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference
 - Python
+  - Avoid using Python due to 10X slower than the others in 2024! But you can't avoid it because it is the primary language of AI research. Try to keep it out of any critical performance paths.
   - https://www.python.org/downloads/
   - https://github.com/vinta/awesome-python
 - C#
+  - C# and Java are the two leading Enterprise deployment languages with similar usage percentages althouth Oracles license changes have made C# slightly more popular. Both are solid dependable efficient languages.
   - https://github.com/dotnet/csharplang
   - https://github.com/dotnet/roslyn
   - https://learn.microsoft.com/en-us/dotnet/csharp/
   - https://dotnet.microsoft.com/en-us/download/dotnet/8.0
   - https://github.com/quozd/awesome-dotnet
 - F#
+  - F# is a Functional language for AI based on OCaml
   - https://github.com/dotnet/fsharp
   - https://dotnet.microsoft.com/en-us/languages/fsharp
   - https://github.com/fsprojects/awesome-fsharp
 - Java
+  - C# and Java are the two leading Enterprise deployment languages with similar usage percentages althouth Oracles license changes have made C# slightly more popular. Both are solid dependable efficient languages. Because of the Oracle license mess, a few popular OpenJava alternative runtimes have popped up.
   - https://www.oracle.com/java/technologies/downloads/#java21
   - https://jdk.java.net/21/
   - https://www.oracle.com/java/technologies/downloads/#graalvmjava21
   - https://github.com/akullpp/awesome-java
 - Scala
+  - Scala compiles to the Java JVM but is designed as a Functional language to perform at Scale. Used by Twitter(X) for that purpose.
   - https://www.scala-lang.org
   - https://www.scala-lang.org/download/3.3.1.html
   - https://github.com/lampepfl/dotty
   - https://github.com/lauris/awesome-scala
   - https://github.com/scalaz/scalaz
 - C++
+  - Universal cross platform, extremely efficient and complex. No human fully understands it.
   - https://isocpp.org
   - https://releases.llvm.org
   - https://visualstudio.microsoft.com/vs/features/cplusplus/
   - https://github.com/fffaraz/awesome-cpp
   - https://github.com/rigtorp/awesome-modern-cpp
 - Rust
+  - Rust compiles to efficient code without the complexity of C++
+  - It has hit the mainstream with usage in BOTH the Linux Kernel and the Windows Kernel!
   - https://www.rust-lang.org
   - https://github.com/rust-lang/rust
   - https://github.com/rust-unofficial/awesome-rust
 - Go
+  - Go is Googles language for Kubernetes and has achieved almost universal adoption for Cloud Native. 
   - https://go.dev
   - https://github.com/golang/go
   - https://github.com/avelino/awesome-go
