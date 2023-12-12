@@ -12,9 +12,14 @@ You can't get to that with the Old Ways of Front-End and Back-End which miss all
 
 MetaVerse-First Design is the new first. There are different visions of what a MetaVerse might be and our vision is NOT about VR but about a new Super-Experience of community, engagement with your Design and a strong sense of being there which makes your design based on TheNewSuperStack superceding and unforgettable to your user base.
 
-# Opinionated GitHub
+# Roadmap
 
-GitHub has grown so huge that endless "me too" repos are just NOISE. The approach to a *Modern Stack* presented here may not appeal to you and that is just fine because as long as everyone starts to strive for greater diversity, you will find what you are looking for in the vast sea of GitHub!
+- starting with yet another boring list of OSS Stack components
+- orchestration and skaffolding will be created
+- pipeline connections will be defined
+- standard ready to run AI components everyone will need in 2024 and beyond will be configured to plug in
+- DigitalTwin framework will be a standard part of the skaffold
+- A captivating UX across Unreal Engine and Windows OS Native and Linux OS Native and WASM for browsers will be created along with various Dashboards taking advantage of that - you will actually start to believe you are in 2024 instead of the weird current backwards direction
 
 # The Tech Components of a Modern Stack for 2024 and Beyond
 
