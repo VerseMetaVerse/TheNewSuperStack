@@ -44,13 +44,46 @@ When a tool grows exponetialy to sucks out all your time and resources and wants
 ### The List
 
 - Verse
+  - https://github.com/VerseMetaVerse/VerseInfo
+  - https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference
 - Python
+  - https://www.python.org/downloads/
+  - https://github.com/vinta/awesome-python
 - C#
+  - https://github.com/dotnet/csharplang
+  - https://github.com/dotnet/roslyn
+  - https://learn.microsoft.com/en-us/dotnet/csharp/
+  - https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+  - https://github.com/quozd/awesome-dotnet
 - F#
+  - https://github.com/dotnet/fsharp
+  - https://dotnet.microsoft.com/en-us/languages/fsharp
+  - https://github.com/fsprojects/awesome-fsharp
 - Java
+  - https://www.oracle.com/java/technologies/downloads/#java21
+  - https://jdk.java.net/21/
+  - https://www.oracle.com/java/technologies/downloads/#graalvmjava21
+  - https://github.com/akullpp/awesome-java
 - Scala
+  - https://www.scala-lang.org
+  - https://www.scala-lang.org/download/3.3.1.html
+  - https://github.com/lampepfl/dotty
+  - https://github.com/lauris/awesome-scala
+  - https://github.com/scalaz/scalaz
 - C++
+  - https://isocpp.org
+  - https://releases.llvm.org
+  - https://visualstudio.microsoft.com/vs/features/cplusplus/
+  - https://github.com/fffaraz/awesome-cpp
+  - https://github.com/rigtorp/awesome-modern-cpp
 - Rust
+  - https://www.rust-lang.org
+  - https://github.com/rust-lang/rust
+  - https://github.com/rust-unofficial/awesome-rust
+- Go
+  - https://go.dev
+  - https://github.com/golang/go
+  - https://github.com/avelino/awesome-go
 
 # Data in Motion
 
