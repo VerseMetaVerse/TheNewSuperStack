@@ -1,4 +1,4 @@
-# TheNewSuperStack
+# DynamicStack
 
 A highly opinionated MetaVerse friendly Modern Stack that is like a warm summer breeze of fresh air and above all, fun to work with into the next decade. Designed to deliver stunning apps that delight users, grab their attention and deliver real insight and usefulness that keeps your users coming back for more. Highly opinionated means careful selection of tech components to achieve these goals effiently and NOT a kitchen sink of popular frameworks to please everyone. If you like the ideas here, stick around and if this proves hard to understand in a comfortable way, the vast sea of GitHub is a welcoming resource to all!
 
@@ -14,7 +14,16 @@ MetaVerse-First Design is the new first. There are different visions of what a M
 
 # Roadmap
 
-- Complexity Has to Live Somewhere - https://ferd.ca/complexity-has-to-live-somewhere.html
+Complexity Has to Live Somewhere - https://ferd.ca/complexity-has-to-live-somewhere.html
+
+Initially just lots of notes on putting together the various elements to support a broad infrastructure that scales at MetaVerse levels and has a highly visual emphasis
+
+- The DynamicStack should also be very useful for all app developers looking for forward technolgy to handle the next decade of change in how users will come to expect a Dynamic experience and not just the same old CSS in a web page
+- the giants of the internet will adapt and provide the exciting dynamic experience that users will start to see as the new normal creating a higher bar to entry for everyone else
+- it is hoped that DynamicStack will help all developers get to parity with the "big guys" with an off the shelf adapable end-to-end design
+
+
+TODO:
 - starting with yet another boring list of OSS Stack components
 - orchestration and skaffolding will be created
 - pipeline connections will be defined
