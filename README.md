@@ -14,6 +14,7 @@ MetaVerse-First Design is the new first. There are different visions of what a M
 
 # Roadmap
 
+- Complexity Has to Live Somewhere - https://ferd.ca/complexity-has-to-live-somewhere.html
 - starting with yet another boring list of OSS Stack components
 - orchestration and skaffolding will be created
 - pipeline connections will be defined
