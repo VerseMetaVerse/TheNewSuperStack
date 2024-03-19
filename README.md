@@ -1,3 +1,7 @@
+## PRELIMINARY
+
+Complexity has to live somewhere and things that look simple in the modern tech world are hiding a huge amount of complexity. This effort to super-simplify rapid flexible GPU based stack deployments has stalled for the moment as more important projects get the limited attention, time and resources available.
+
 # DynamicStack
 
 A highly opinionated MetaVerse friendly Modern Stack that is like a warm summer breeze of fresh air and above all, fun to work with into the next decade. Designed to deliver stunning apps that delight users, grab their attention and deliver real insight and usefulness that keeps your users coming back for more. Highly opinionated means careful selection of tech components to achieve these goals effiently and NOT a kitchen sink of popular frameworks to please everyone. If you like the ideas here, stick around and if this proves hard to understand in a comfortable way, the vast sea of GitHub is a welcoming resource to all!
